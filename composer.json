@@ -1,0 +1,6 @@
+{
+    "require": {
+        "xolf/io-db": "dev-master",
+        "guzzlehttp/guzzle": "^6.2"
+    }
+}
